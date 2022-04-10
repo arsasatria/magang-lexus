@@ -13,4 +13,7 @@ if( !$dbs ){
 
 //Watermark Setting
 $out["watermark"] = "Thank you for using Arsa Group ID - Gateway System API";
+
+//Token & Security Setting
+$data['token'] = "68b31d04-2712-4938-b180-afcf5eacfe99";
 ?>
